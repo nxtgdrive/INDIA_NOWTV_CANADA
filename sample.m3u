@@ -1,15 +1,7 @@
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET HD" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET HD
-http://mitvpro.online:88/02025685921199/8999991992/93576
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: MAZAVIL MANORAMA HD" tvg-logo="" group-title="AS MALAYALAM",MAL: MAZAVIL MANORAMA HD
-http://mitvpro.online:88/02025685921199/8999991992/93590
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET MOVIE" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET MOVIE
-http://mitvpro.online:88/02025685921199/8999991992/93577
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: SURYA MOVIES" tvg-logo="" group-title="AS MALAYALAM",MAL: SURYA MOVIES
-http://mitvpro.online:88/02025685921199/8999991992/93595
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: SURYA TV HD" tvg-logo="" group-title="AS MALAYALAM",MAL: SURYA TV HD
-http://mitvpro.online:88/02025685921199/8999991992/93597
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: SURYA MUSIC" tvg-logo="" group-title="AS MALAYALAM",MAL: SURYA MUSIC
-http://mitvpro.online:88/02025685921199/8999991992/93596
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=292&key
+#EXTINF:-1 tvg-id=ts292 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Tata Sky",Asianet HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=292
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: 9xm" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png" group-title="INDIAN" ,IN: 9xm
