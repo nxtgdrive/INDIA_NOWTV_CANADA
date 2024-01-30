@@ -10,7 +10,6 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=953
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=294&key
 #EXTINF:-1 tvg-id=ts294 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" group-title="Tata Sky",Asianet Plus
 http://rftv.wtf/tp/rjiptv.mpd?contentID=294
-
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: 9xm" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png" group-title="INDIAN" ,IN: 9xm
