@@ -9,55 +9,9 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=139&key
-#EXTINF:-1 tvg-id=ts139 tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="Tata Sky",9XM
-http://rftv.wtf/tp/rjiptv.mpd?contentID=139
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV (720p)
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="INDIAN" ,IN: Music India
-http://195.26.87.217/live.ts?channelId=175&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=377&key
-#EXTINF:-1 tvg-id=ts377 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png" group-title="Tata Sky",Kappa TV
-http://rftv.wtf/tp/rjiptv.mpd?contentID=377
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: KAPPA TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7c4859b.png" group-title="MALAYALAM" ,MY: KAPPA TV
-http://195.26.87.217/live.ts?channelId=43477&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAPPA TV" tvg-logo="" group-title="AS MALAYALAM",MAL: KAPPA TV
-http://mitvpro.online:88/02025685921199/8999991992/93586
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: RAJ MUSIC" tvg-logo="" group-title="AS MALAYALAM",MAL: RAJ MUSIC
-http://mitvpro.online:88/02025685921199/8999991992/93592
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: WE TV" tvg-logo="" group-title="AS MALAYALAM",MAL: WE TV
-http://mitvpro.online:88/02025685921199/8999991992/93598
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: ZEE KERALAM HD" tvg-logo="" group-title="AS MALAYALAM",MAL: ZEE KERALAM HD
-http://mitvpro.online:88/02025685921199/8999991992/93599
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAUMUDY" tvg-logo="" group-title="AS MALAYALAM",MAL: KAUMUDY
-http://mitvpro.online:88/02025685921199/8999991992/93573
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: AMRITHA TV" tvg-logo="" group-title="AS MALAYALAM",MAL: AMRITHA TV
-http://mitvpro.online:88/02025685921199/8999991992/93575
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET PLUS" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET PLUS
-http://mitvpro.online:88/02025685921199/8999991992/93579
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: FLOWERS TV" tvg-logo="" group-title="AS MALAYALAM",MAL: FLOWERS TV
-http://mitvpro.online:88/02025685921199/8999991992/93581
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: SAFARI TV" tvg-logo="" group-title="AS MALAYALAM",MAL: SAFARI TV
-http://mitvpro.online:88/02025685921199/8999991992/93594
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET NEWS HD
-http://mitvpro.online:88/02025685921199/8999991992/93578
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAIRALI NEWS" tvg-logo="" group-title="AS MALAYALAM",MAL: KAIRALI NEWS
-http://mitvpro.online:88/02025685921199/8999991992/93572
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: DD MALAYALAM" tvg-logo="" group-title="AS MALAYALAM",MAL: DD MALAYALAM
-http://mitvpro.online:88/02025685921199/8999991992/93580
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: JAIHIND TV" tvg-logo="" group-title="AS MALAYALAM",MAL: JAIHIND TV
-http://mitvpro.online:88/02025685921199/8999991992/93582
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAIRALI ARABIA" tvg-logo="" group-title="AS MALAYALAM",MAL: KAIRALI ARABIA
-http://mitvpro.online:88/02025685921199/8999991992/93584
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KOCHU TV" tvg-logo="" group-title="AS MALAYALAM",MAL: KOCHU TV
-http://mitvpro.online:88/02025685921199/8999991992/93587
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: MANORAMA NEWS" tvg-logo="" group-title="AS MALAYALAM",MAL: MANORAMA NEWS
-http://mitvpro.online:88/02025685921199/8999991992/93588
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: MATHRUBHUMI NEWS" tvg-logo="" group-title="AS MALAYALAM",MAL: MATHRUBHUMI NEWS
-http://mitvpro.online:88/02025685921199/8999991992/93589
 #EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV",SONY PIX HD{SONYLIV}
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SONY HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONYLIV",SONY HD{SONYLIV}
