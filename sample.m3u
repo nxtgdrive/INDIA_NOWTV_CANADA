@@ -11,11 +11,17 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=139&key
-#EXTINF:-1 tvg-id=ts139 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="Tata Sky",9XM
+#EXTINF:-1 tvg-id=ts139 tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="Tata Sky",9XM
 http://rftv.wtf/tp/rjiptv.mpd?contentID=139
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="INDIAN" ,IN: Music India
 http://195.26.87.217/live.ts?channelId=175&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=377&key
+#EXTINF:-1 tvg-id=ts377 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png" group-title="Tata Sky",Kappa TV
+http://rftv.wtf/tp/rjiptv.mpd?contentID=377
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: KAPPA TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7c4859b.png" group-title="MALAYALAM" ,MY: KAPPA TV
 http://195.26.87.217/live.ts?channelId=43477&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: KAPPA TV" tvg-logo="" group-title="AS MALAYALAM",MAL: KAPPA TV
