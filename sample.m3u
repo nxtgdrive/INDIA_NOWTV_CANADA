@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET HD" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET HD
 http://mitvpro.online:88/02025685921199/8999991992/93576
+#EXTINF:-1 tvg-ID="" tvg-name="MAL: MAZAVIL MANORAMA HD" tvg-logo="" group-title="AS MALAYALAM",MAL: MAZAVIL MANORAMA HD
+http://mitvpro.online:88/02025685921199/8999991992/93590
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET MOVIE" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET MOVIE
 http://mitvpro.online:88/02025685921199/8999991992/93577
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: SURYA MOVIES" tvg-logo="" group-title="AS MALAYALAM",MAL: SURYA MOVIES
@@ -8,51 +10,45 @@ http://mitvpro.online:88/02025685921199/8999991992/93595
 http://mitvpro.online:88/02025685921199/8999991992/93597
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: SURYA MUSIC" tvg-logo="" group-title="AS MALAYALAM",MAL: SURYA MUSIC
 http://mitvpro.online:88/02025685921199/8999991992/93596
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9xm" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png" group-title="INDIAN" ,IN: 9xm
+http://195.26.87.217/live.ts?channelId=143&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="INDIAN" ,IN: Music India
+http://195.26.87.217/live.ts?channelId=175&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: KAPPA TV" tvg-logo="" group-title="AS MALAYALAM",MAL: KAPPA TV
 http://mitvpro.online:88/02025685921199/8999991992/93586
+#EXTINF:-1 tvg-ID="" tvg-name="MAL: RAJ MUSIC" tvg-logo="" group-title="AS MALAYALAM",MAL: RAJ MUSIC
+http://mitvpro.online:88/02025685921199/8999991992/93592
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: WE TV" tvg-logo="" group-title="AS MALAYALAM",MAL: WE TV
 http://mitvpro.online:88/02025685921199/8999991992/93598
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: ZEE KERALAM HD" tvg-logo="" group-title="AS MALAYALAM",MAL: ZEE KERALAM HD
 http://mitvpro.online:88/02025685921199/8999991992/93599
-#EXTINF:-1 tvg-ID="" tvg-name="===== MALAYALAM GENERAL =====" tvg-logo="" group-title="AS MALAYALAM",===== MALAYALAM GENERAL =====
-http://mitvpro.online:88/02025685921199/8999991992/93571
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAIRALI NEWS" tvg-logo="" group-title="AS MALAYALAM",MAL: KAIRALI NEWS
-http://mitvpro.online:88/02025685921199/8999991992/93572
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: KAUMUDY" tvg-logo="" group-title="AS MALAYALAM",MAL: KAUMUDY
 http://mitvpro.online:88/02025685921199/8999991992/93573
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: SHOLAM TV" tvg-logo="" group-title="AS MALAYALAM",MAL: SHOLAM TV
-http://mitvpro.online:88/02025685921199/8999991992/93574
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: AMRITHA TV" tvg-logo="" group-title="AS MALAYALAM",MAL: AMRITHA TV
 http://mitvpro.online:88/02025685921199/8999991992/93575
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET NEWS HD
-http://mitvpro.online:88/02025685921199/8999991992/93578
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET PLUS" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET PLUS
 http://mitvpro.online:88/02025685921199/8999991992/93579
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: DD MALAYALAM" tvg-logo="" group-title="AS MALAYALAM",MAL: DD MALAYALAM
-http://mitvpro.online:88/02025685921199/8999991992/93580
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: FLOWERS TV" tvg-logo="" group-title="AS MALAYALAM",MAL: FLOWERS TV
 http://mitvpro.online:88/02025685921199/8999991992/93581
+#EXTINF:-1 tvg-ID="" tvg-name="MAL: SAFARI TV" tvg-logo="" group-title="AS MALAYALAM",MAL: SAFARI TV
+http://mitvpro.online:88/02025685921199/8999991992/93594
+#EXTINF:-1 tvg-ID="" tvg-name="MAL: ASIANET NEWS HD" tvg-logo="" group-title="AS MALAYALAM",MAL: ASIANET NEWS HD
+http://mitvpro.online:88/02025685921199/8999991992/93578
+#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAIRALI NEWS" tvg-logo="" group-title="AS MALAYALAM",MAL: KAIRALI NEWS
+http://mitvpro.online:88/02025685921199/8999991992/93572
+#EXTINF:-1 tvg-ID="" tvg-name="MAL: DD MALAYALAM" tvg-logo="" group-title="AS MALAYALAM",MAL: DD MALAYALAM
+http://mitvpro.online:88/02025685921199/8999991992/93580
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: JAIHIND TV" tvg-logo="" group-title="AS MALAYALAM",MAL: JAIHIND TV
 http://mitvpro.online:88/02025685921199/8999991992/93582
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: JANAM TV" tvg-logo="" group-title="AS MALAYALAM",MAL: JANAM TV
-http://mitvpro.online:88/02025685921199/8999991992/93583
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: KAIRALI ARABIA" tvg-logo="" group-title="AS MALAYALAM",MAL: KAIRALI ARABIA
 http://mitvpro.online:88/02025685921199/8999991992/93584
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: KAIRALI PEOPLE TV" tvg-logo="" group-title="AS MALAYALAM",MAL: KAIRALI PEOPLE TV
-http://mitvpro.online:88/02025685921199/8999991992/93585
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: KOCHU TV" tvg-logo="" group-title="AS MALAYALAM",MAL: KOCHU TV
 http://mitvpro.online:88/02025685921199/8999991992/93587
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: MANORAMA NEWS" tvg-logo="" group-title="AS MALAYALAM",MAL: MANORAMA NEWS
 http://mitvpro.online:88/02025685921199/8999991992/93588
 #EXTINF:-1 tvg-ID="" tvg-name="MAL: MATHRUBHUMI NEWS" tvg-logo="" group-title="AS MALAYALAM",MAL: MATHRUBHUMI NEWS
 http://mitvpro.online:88/02025685921199/8999991992/93589
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: MAZAVIL MANORAMA HD" tvg-logo="" group-title="AS MALAYALAM",MAL: MAZAVIL MANORAMA HD
-http://mitvpro.online:88/02025685921199/8999991992/93590
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: NEWS 18 KERALA" tvg-logo="" group-title="AS MALAYALAM",MAL: NEWS 18 KERALA
-http://mitvpro.online:88/02025685921199/8999991992/93591
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: RAJ MUSIC" tvg-logo="" group-title="AS MALAYALAM",MAL: RAJ MUSIC
-http://mitvpro.online:88/02025685921199/8999991992/93592
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: RAJ NEWS MALAYALAM" tvg-logo="" group-title="AS MALAYALAM",MAL: RAJ NEWS MALAYALAM
-http://mitvpro.online:88/02025685921199/8999991992/93593
-#EXTINF:-1 tvg-ID="" tvg-name="MAL: SAFARI TV" tvg-logo="" group-title="AS MALAYALAM",MAL: SAFARI TV
-http://mitvpro.online:88/02025685921199/8999991992/93594
+#EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV",SONY PIX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
