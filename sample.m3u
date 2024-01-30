@@ -8,6 +8,9 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=292
 #EXTINF:-1 tvg-id=ts293 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="Tata Sky",Asianet Movies
 http://rftv.wtf/tp/rjiptv.mpd?contentID=293
 
+#EXTINF:0 tvg-id="ext" group-title="INDIAN ENTERTAINMENT",MOVIE NOW
+http://filex.tv:8080/Amir8759/Amir9578/113
+
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 
