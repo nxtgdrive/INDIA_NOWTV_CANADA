@@ -73,17 +73,5 @@ https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 
-#EXTINF:0 tvg-id="Asianet.in" group-title="IN | MALAYALAM",ASIANET HD
-http://filex.tv:8080/Amir8759/Amir9578/250110
-#EXTINF:0 tvg-id="ext" group-title="IN | MALAYALAM",ASIANET MOVIES HD
-http://filex.tv:8080/Amir8759/Amir9578/250115
-#EXTINF:0 tvg-id="SuryaTv.in" group-title="IN | MALAYALAM",SURYA HD
-http://filex.tv:8080/Amir8759/Amir9578/250124
-#EXTINF:0 tvg-id="ext" group-title="IN | MALAYALAM",SURYA COMEDY
-http://filex.tv:8080/Amir8759/Amir9578/250125
-#EXTINF:0 tvg-id="ext" group-title="IN | MALAYALAM",Mazhavil Man HD
-http://filex.tv:8080/Amir8759/Amir9578/250137
-#EXTINF:0 tvg-id="ext" group-title="IN | MALAYALAM",Flowers
-http://filex.tv:8080/Amir8759/Amir9578/250142
-#EXTINF:0 tvg-id="ext" group-title="IN | MALAYALAM",SONY YAY
-http://filex.tv:8080/Amir8759/Amir9578/250167
+#EXTINF:-1,|HI| MUSIC INDIA
+http://egaletv.cc:8080/100823belge/s5kc2x99xq/276969
