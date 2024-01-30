@@ -2,13 +2,18 @@
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=292&key
 #EXTINF:-1 tvg-id=ts292 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Tata Sky",Asianet HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=292
+
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MUSIC INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: MUSIC INDIA
-http://mitvpro.online:88/02025685921199/8999991992/96238
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=139&key
+#EXTINF:-1 tvg-id=ts139 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="Tata Sky",9XM
+http://rftv.wtf/tp/rjiptv.mpd?contentID=139
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="INDIAN" ,IN: Music India
 http://195.26.87.217/live.ts?channelId=175&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="MY: KAPPA TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7c4859b.png" group-title="MALAYALAM" ,MY: KAPPA TV
