@@ -3,10 +3,6 @@
 #EXTINF:-1 tvg-id=ts292 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Tata Sky",Asianet HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=292
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=933&key
-#EXTINF:-1 tvg-id=ts933 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64891-ks8v01o8-v1/imageContent-64891-ks8v01o8-m2.png" group-title="Tata Sky",Asianet Movies
-http://rftv.wtf/tp/rjiptv.mpd?contentID=933
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=293&key
 #EXTINF:-1 tvg-id=ts293 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="Tata Sky",Asianet Movies
 http://rftv.wtf/tp/rjiptv.mpd?contentID=293
