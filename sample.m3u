@@ -37,17 +37,9 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarMovie" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Movie",StarMovie,
-https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v1_index.m3u8
-
-#EXTINF:-1 tvg-id="StarMovie" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Movie",StarMovie,
-https://edge2.laotv.la/live/StarMovie/index.m3u8
-
++++++++(ENGLISH BROADCASTER)-------
 #EXTINF:-1 tvg-id="StarMovie" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Movie",StarMovie,
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-
-#EXTINF:-1 tvg-id="StarMovie" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Movie",StarMovie,
-http://103.132.181.118:82/play/a005
 
 +++++++(SONY BROADCASTER)-------
 #EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV",SONY PIX HD{SONYLIV}
