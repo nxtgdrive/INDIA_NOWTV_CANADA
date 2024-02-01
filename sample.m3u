@@ -47,6 +47,13 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.ibb.co/wQkmLSg/Channels4-profile-9.jpg" group-title="Discovery",Discovery
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/wQkmLSg/Channels4-profile-9.jpg" group-title="Science",Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/wQkmLSg/Channels4-profile-9.jpg" group-title="Discovery",Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+
 +++++++(SONY BROADCASTER)-------
 #EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV",SONY PIX HD{SONYLIV}
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
