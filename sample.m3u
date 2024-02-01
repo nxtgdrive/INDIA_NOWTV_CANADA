@@ -32,8 +32,6 @@ https://nayeem-parvez.pw/api/ayna.m3u8?id=140&e=.m3u8|User-Agent=nayeem10
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Movie",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 tvg-id="VZee Cinema" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Movie",Zee Cinema HD(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=1087600.m3u8
 
 +++++++(TAMIL BROADCASTER)-------
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
