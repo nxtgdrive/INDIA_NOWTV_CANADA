@@ -50,11 +50,11 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="525" tvg-name="SONY BBC EARTH" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11780-j9kx84o8-v3/imageContent-11780-j9kx84o8-m4.jpg" group-title="SONYLIV",SONY BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-logo=" https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" group-title="DISCOVERY+",Discovery HD 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" group-title="DISCOVERY+",Discovery HD 
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 ,Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF:-1 ,Discovery Turbo
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
