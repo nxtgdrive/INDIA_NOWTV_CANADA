@@ -75,38 +75,33 @@ https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3
 #EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV",SONY TEN 3 HD
 
 +++++++(HINDI CHANEELS)-------
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",MUSIC INDIA
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music", MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55-j5fdr2f4-v1/imageContent-55-j5fdr2f4-m1.jpg" group-title="Music",MASTIII
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music",MASTIII
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-#EXTINF:-1 ,9x Jalwa
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9x Jalwa
 http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
-#EXTINF:-1 ,9x Tashan
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music",9x Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF:-1 ,9X JHAKAAS
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music",9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF:-1 ,Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-#EXTINF:-1 ,&TV HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Movie",&TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 ,Zee Cinema
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movie",Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#EXTINF:-1 ,&Pictures
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movie",&Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF:-1 ,ENTERR 10
-http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
-#EXTINF:-1 ,AND PICTURES
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures.m3u8
+
 #EXTINF:-1 ,&Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies" user-agent="stream",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
-#EXTINF:-1 ,Star Gold SELECT(BD)
+#EXTINF:-1 ,Star Gold SELECT
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-#EXTINF:-1 ,BFLIX MOVIES
-http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
-#EXTINF:-1 ,Bollywood Classic(BD)
+#EXTINF:-1 ,Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 ,Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
