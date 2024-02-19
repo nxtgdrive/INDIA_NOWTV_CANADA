@@ -100,8 +100,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" group-title="Movie",Star Gold SELECT HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
-https://static.wikia.nocookie.net/logopedia/images/b/b0/Bollywood_Clasic_ident.png/revision/latest/scale-to-width-down/250?cb=20230812175011
-#EXTINF:-1 ,Bollywood Classic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Bollywood_Clasic_ident.png/revision/latest/scale-to-width-down/250?cb=20230812175011" group-title="Movies" user-agent="stream",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Movies" user-agent="stream",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
@@ -109,8 +108,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2692-j638bugw-v1/imageContent-2692-j638bugw-m1.jpg" group-title="Kids",POGO
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Bollywood_Clasic_ident.png/revision/latest/scale-to-width-down/250?cb=20230812175011" group-title="Movies",Bollywood Classic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest?cb=20181116224348" group-title="Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 ,MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
