@@ -10,12 +10,20 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manife
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hmB2z73yCvSFARFkTPFinA","kid":"+NisDIBAVA2kpXpaLVmnWQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts294" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",Asianet Plus
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xv+grCdwPg7d2ixlMq7LfQ","kid":"of1nScaHXl6DU0fxFhLYZg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts25" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png",Kairali TV
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="KAUMUDY TV" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/kaumudy-tv-live-vipotv.png" group-title="Entertainment",KAUMUDY
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11518-j9jtr0y8-v1/imageContent-11518-j9jtr0y8-m1.jpg" group-title="Lifestyle",Kappa TV
 https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"96cZntkF+LNhGih8IgH9dA","kid":"CktO3VNyWVK6KURfD0Qemg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts395" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png",Mazhavil Manorama HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in" tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Entertainment",Kairali We
