@@ -14,6 +14,18 @@ https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manife
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xv+grCdwPg7d2ixlMq7LfQ","kid":"of1nScaHXl6DU0fxFhLYZg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts25" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png",Kairali TV
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V9/me6d4cE95UxbVWZX/sA","kid":"3xrg+XMoWlOTTYtdeVbBwQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts230" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png",Surya TV
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RHBsAUD5knZ3N1+D+RUBKw","kid":"eqxac/zZUJeXvLY1Y1dskA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts229" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",Surya Movies
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xpyDwUVQLR1dQES7R6h3Tg","kid":"Gbpe/Nn1WjasioLKyR3n+w"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",Sun TV HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="KAUMUDY TV" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/kaumudy-tv-live-vipotv.png" group-title="Entertainment",KAUMUDY
@@ -92,9 +104,9 @@ https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3
 
 +++++++(HINDI CHANEELS)-------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7F5e3ikrHteWX+eJ2EY1cQ","kid":"lkyb/v7sVXea40NL7onnNw"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT",MTV HD Plus
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SLISqnAYXBVEblhFo8jVJA","kid":"MfVj7E0FXwSnB35jiwRt5A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts405" group-title="Music" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png",MTV Beats HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD
 http://mag.trexlive.me:80/Michael88/Michael88/156031
 #EXTINF:-1 tvg-id="zoom.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom TV
