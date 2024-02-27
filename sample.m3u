@@ -1,11 +1,15 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=292&key
-#EXTINF:-1 tvg-id=ts292 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Tata Sky",Asianet HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=292
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"alo4jvXd3R4S9OxYOsGEPw","kid":"r6EW3eEaWwiCQEIwhUYWvg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts292" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Tata Sky",Asianet HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=293&key
-#EXTINF:-1 tvg-id=ts293 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="Tata Sky",Asianet Movies
-http://rftv.wtf/tp/rjiptv.mpd?contentID=293
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Ygf6cZQRY9+Jy7Wl7yg8w","kid":"0IiBe1GdWMSR6iv6WDOILg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts293" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",Asianet Movies
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hmB2z73yCvSFARFkTPFinA","kid":"+NisDIBAVA2kpXpaLVmnWQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts294" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",Asianet Plus
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="KAUMUDY TV" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/kaumudy-tv-live-vipotv.png" group-title="Entertainment",KAUMUDY
@@ -80,7 +84,7 @@ https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3
 
 +++++++(HINDI CHANEELS)-------
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT",MTV HD Plus
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD
 http://mag.trexlive.me:80/Michael88/Michael88/156031
 #EXTINF:-1 tvg-id="zoom.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom TV
