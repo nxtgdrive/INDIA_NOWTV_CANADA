@@ -23,9 +23,6 @@ https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manife
 #EXTINF:-1 tvg-id="ts229" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",Surya Movies
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xpyDwUVQLR1dQES7R6h3Tg","kid":"Gbpe/Nn1WjasioLKyR3n+w"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",Sun TV HD
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="KAUMUDY TV" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/kaumudy-tv-live-vipotv.png" group-title="Entertainment",KAUMUDY
@@ -107,8 +104,6 @@ https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SLISqnAYXBVEblhFo8jVJA","kid":"MfVj7E0FXwSnB35jiwRt5A"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts405" group-title="Music" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png",MTV Beats HD
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd
-#EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD
-http://mag.trexlive.me:80/Michael88/Michael88/156031
 #EXTINF:-1 tvg-id="zoom.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",MUSIC INDIA
