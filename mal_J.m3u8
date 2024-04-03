@@ -1,0 +1,141 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=753&key
+#EXTINF:-1 tvg-id=ts753 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+",MTV Beats HD
+https://rftv.wtf/tp/jp.mpd?contentID=753
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=592&key
+#EXTINF:-1 tvg-id=ts592 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="JioTV+",ZOOM
+https://rftv.wtf/tp/jp.mpd?contentID=592
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=591&key
+#EXTINF:-1 tvg-id=ts591 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="JioTV+",E 24
+https://rftv.wtf/tp/jp.mpd?contentID=591
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=587&key
+#EXTINF:-1 tvg-id=ts587 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="JioTV+",9XM
+https://rftv.wtf/tp/jp.mpd?contentID=587
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=584&key
+#EXTINF:-1 tvg-id=ts584 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="JioTV+",Mastiii
+https://rftv.wtf/tp/jp.mpd?contentID=584
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=440&key
+#EXTINF:-1 tvg-id=ts440 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="JioTV+",9X Jalwa
+https://rftv.wtf/tp/jp.mpd?contentID=440
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=250&key
+#EXTINF:-1 tvg-id=ts250 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="JioTV+",Music India
+https://rftv.wtf/tp/jp.mpd?contentID=250
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=248&key
+#EXTINF:-1 tvg-id=ts248 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="JioTV+",MTV
+https://rftv.wtf/tp/jp.mpd?contentID=248
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=183&key
+#EXTINF:-1 tvg-id=ts183 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="JioTV+",B4U Music
+https://rftv.wtf/tp/jp.mpd?contentID=183
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=182&key
+#EXTINF:-1 tvg-id=ts182 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="JioTV+",B4U Movies
+https://rftv.wtf/tp/jp.mpd?contentID=182
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=165&key
+#EXTINF:-1 tvg-id=ts165 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="JioTV+",Zee Cinema HD
+https://rftv.wtf/tp/jp.mpd?contentID=165
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=842&key
+#EXTINF:-1 tvg-id=ts842 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="JioTV+",Jeevan TV
+https://rftv.wtf/tp/jp.mpd?contentID=842
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=844&key
+#EXTINF:-1 tvg-id=ts844 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="JioTV+",Mazavali Manorama HD
+https://rftv.wtf/tp/jp.mpd?contentID=844
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=810&key
+#EXTINF:-1 tvg-id=ts810 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="JioTV+",Janam TV
+https://rftv.wtf/tp/jp.mpd?contentID=810
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=780&key
+#EXTINF:-1 tvg-id=ts780 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="JioTV+",Mathrubhumi News
+https://rftv.wtf/tp/jp.mpd?contentID=780
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=739&key
+#EXTINF:-1 tvg-id=ts739 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="JioTV+",Raj Music Malayalam
+https://rftv.wtf/tp/jp.mpd?contentID=739
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=731&key
+#EXTINF:-1 tvg-id=ts731 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="JioTV+",Kairali WE TV
+https://rftv.wtf/tp/jp.mpd?contentID=731
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=725&key
+#EXTINF:-1 tvg-id=ts725 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" group-title="JioTV+",Kairali News
+https://rftv.wtf/tp/jp.mpd?contentID=725
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=723&key
+#EXTINF:-1 tvg-id=ts723 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="JioTV+",Amrita TV
+https://rftv.wtf/tp/jp.mpd?contentID=723
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=710&key
+#EXTINF:-1 tvg-id=ts710 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="JioTV+",Kairali TV
+https://rftv.wtf/tp/jp.mpd?contentID=710
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=699&key
+#EXTINF:-1 tvg-id=ts699 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="JioTV+",DD Malayalam
+https://rftv.wtf/tp/jp.mpd?contentID=699
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=662&key
+#EXTINF:-1 tvg-id=ts662 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="JioTV+",Manorama News
+https://rftv.wtf/tp/jp.mpd?contentID=662
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=650&key
+#EXTINF:-1 tvg-id=ts650 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="JioTV+",Raj News Malayalam
+https://rftv.wtf/tp/jp.mpd?contentID=650
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=648&key
+#EXTINF:-1 tvg-id=ts648 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="JioTV+",Mazhavil Manorama
+https://rftv.wtf/tp/jp.mpd?contentID=648
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=634&key
+#EXTINF:-1 tvg-id=ts634 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="JioTV+",Flower TV
+https://rftv.wtf/tp/jp.mpd?contentID=634
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=563&key
+#EXTINF:-1 tvg-id=ts563 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="JioTV+",Kaumudy TV
+https://rftv.wtf/tp/jp.mpd?contentID=563
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=465&key
+#EXTINF:-1 tvg-id=ts465 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="JioTV+",Jaihind tv
+https://rftv.wtf/tp/jp.mpd?contentID=465
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=180&key
+#EXTINF:-1 tvg-id=ts180 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=180
