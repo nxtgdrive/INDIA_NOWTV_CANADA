@@ -1,6 +1,16 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=648&key
+#EXTINF:-1 tvg-id=ts648 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="JioTV+",Mazhavil Manorama
+https://rftv.wtf/tp/jp.mpd?contentID=648
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=363&key
+#EXTINF:-1 tvg-id=ts363 tvg-logo="http://p-img.movetv.com/cms/images/6a7a925b76a299b24e35cecd71022e70ba3389c1.png" group-title="SlingTV",Mazhavil Manorama
+https://rftv.wtf/tp/slingtv.mpd?contentID=363
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=63&key
-#EXTINF:-1 tvg-id=ts63 tvg-logo="http://q-img.movetv.com/1280x720/7c94b9937cc214d8a991b5ed888b2ae0.png" group-title="SlingTV",Asianet Movies
+#EXTINF:-1 tvg-id=ts63 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="SlingTV",Asianet Movies
 https://rftv.wtf/tp/slingtv.mpd?contentID=63
 
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
