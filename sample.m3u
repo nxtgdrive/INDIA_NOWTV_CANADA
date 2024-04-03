@@ -187,3 +187,8 @@ https://rftv.wtf/tp/jp.mpd?contentID=1145
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=753&key
 #EXTINF:-1 tvg-id=ts753 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+",MTV Beats HD
 https://rftv.wtf/tp/jp.mpd?contentID=753
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=648&key
+#EXTINF:-1 tvg-id=ts648 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="JioTV+",Mazhavil Manorama
+https://rftv.wtf/tp/jp.mpd?contentID=648
