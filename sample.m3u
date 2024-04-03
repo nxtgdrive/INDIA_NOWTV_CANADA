@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-id=ts395 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png" group-title="Tata Sky",Mazhavil Manorama HD
 https://rftv.wtf/tp/tplay.mpd?contentID=395
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=648&key
 #EXTINF:-1 tvg-id=ts648 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="JioTV+",Mazhavil Manorama
