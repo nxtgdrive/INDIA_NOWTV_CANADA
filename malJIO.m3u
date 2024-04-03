@@ -143,25 +143,25 @@ https://rftv.wtf/tp/jp.mpd?contentID=180
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=293&key
-#EXTINF:-1 tvg-id=ts293 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="Tata Sky",Asianet Movies
+#EXTINF:-1 tvg-id=ts293 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" group-title="JioTV+",Asianet Movies
 https://rftv.wtf/tp/tplay.mpd?contentID=293
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=292&key
-#EXTINF:-1 tvg-id=ts292 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Tata Sky",Asianet HD
+#EXTINF:-1 tvg-id=ts292 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="JioTV+",Asianet HD
 https://rftv.wtf/tp/tplay.mpd?contentID=292
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=64&key
-#EXTINF:-1 tvg-id=ts64 tvg-logo="http://q-img.movetv.com/1280x720/e141b21a56f7215b3a6ff5ea2e900e28.png" group-title="SlingTV",Asianet Plus
+#EXTINF:-1 tvg-id=ts64 tvg-logo="http://q-img.movetv.com/1280x720/e141b21a56f7215b3a6ff5ea2e900e28.png" group-title="JioTV+",Asianet Plus
 https://rftv.wtf/tp/slingtv.mpd?contentID=64
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=63&key
-#EXTINF:-1 tvg-id=ts63 tvg-logo="http://q-img.movetv.com/1280x720/7c94b9937cc214d8a991b5ed888b2ae0.png" group-title="SlingTV",Asianet Movies
+#EXTINF:-1 tvg-id=ts63 tvg-logo="http://q-img.movetv.com/1280x720/7c94b9937cc214d8a991b5ed888b2ae0.png" group-title="JioTV+",Asianet Movies
 https://rftv.wtf/tp/slingtv.mpd?contentID=63
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=62&key
-#EXTINF:-1 tvg-id=ts62 tvg-logo="http://q-img.movetv.com/1280x720/51be9d7139f8395b08a6919649344d46.png" group-title="SlingTV",Asianet
+#EXTINF:-1 tvg-id=ts62 tvg-logo="http://q-img.movetv.com/1280x720/51be9d7139f8395b08a6919649344d46.png" group-title="JioTV+",Asianet
 https://rftv.wtf/tp/slingtv.mpd?contentID=62
