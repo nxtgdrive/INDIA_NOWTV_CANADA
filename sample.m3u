@@ -1,3 +1,8 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=63&key
+#EXTINF:-1 tvg-id=ts63 tvg-logo="http://q-img.movetv.com/1280x720/7c94b9937cc214d8a991b5ed888b2ae0.png" group-title="SlingTV",Asianet Movies
+https://rftv.wtf/tp/slingtv.mpd?contentID=63
+
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 
