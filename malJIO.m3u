@@ -206,3 +206,23 @@ https://rftv.wtf/tp/tplay.mpd?contentID=292
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=64&key
 #EXTINF:-1 tvg-id=ts64 tvg-logo="http://q-img.movetv.com/1280x720/e141b21a56f7215b3a6ff5ea2e900e28.png" group-title="JioTV+",Asianet Plus
 https://rftv.wtf/tp/slingtv.mpd?contentID=64
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=230&key
+#EXTINF:-1 tvg-id=ts230 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_TV.png" group-title="JioTV+",Surya TV
+https://rftv.wtf/tp/tplay.mpd?contentID=230
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=229&key
+#EXTINF:-1 tvg-id=ts229 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="JioTV+",Surya Movies
+https://rftv.wtf/tp/tplay.mpd?contentID=229
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=568&key
+#EXTINF:-1 tvg-id=ts568 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="JioTV+",Surya Music
+https://rftv.wtf/tp/slingtv.mpd?contentID=568
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=567&key
+#EXTINF:-1 tvg-id=ts567 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="JioTV+",Surya Movies
+https://rftv.wtf/tp/slingtv.mpd?contentID=567
