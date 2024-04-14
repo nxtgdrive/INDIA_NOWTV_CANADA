@@ -90,7 +90,7 @@ https://rftv.wtf/tp/jp.mpd?contentID=847
 #EXTINF:-1 tvg-id=ts845 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="JioTV+",MK Music
 https://rftv.wtf/tp/jp.mpd?contentID=845
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="JioTV+",IsaiAruvi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/radWIeb.png" group-title="JioTV+",IsaiAruvi
 http://103.178.58.10:8000/play/a047/index.m3u8
 
 =============MALAYALAM==============================================
