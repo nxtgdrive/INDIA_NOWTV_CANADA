@@ -1,54 +1,79 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=816&key
-#EXTINF:-1 tvg-id=ts816 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=816
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=800&key
+#EXTINF:-1 tvg-id=ts800 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=800
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=817&key
-#EXTINF:-1 tvg-id=ts817 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=817
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=801&key
+#EXTINF:-1 tvg-id=ts801 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=801
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=818&key
-#EXTINF:-1 tvg-id=ts818 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=818
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=802&key
+#EXTINF:-1 tvg-id=ts802 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=802
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=819&key
-#EXTINF:-1 tvg-id=ts819 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=819
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=803&key
+#EXTINF:-1 tvg-id=ts803 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=803
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=820&key
-#EXTINF:-1 tvg-id=ts820 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=820
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=804&key
+#EXTINF:-1 tvg-id=ts804 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=804
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=821&key
-#EXTINF:-1 tvg-id=ts821 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=821
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=805&key
+#EXTINF:-1 tvg-id=ts805 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=805
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=822&key
-#EXTINF:-1 tvg-id=ts822 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=822
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=806&key
+#EXTINF:-1 tvg-id=ts806 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=806
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=823&key
-#EXTINF:-1 tvg-id=ts824 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=825
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=807&key
+#EXTINF:-1 tvg-id=ts807 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=807
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=826&key
-#EXTINF:-1 tvg-id=ts826 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=826
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=808&key
+#EXTINF:-1 tvg-id=ts808 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=808
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=827&key
-#EXTINF:-1 tvg-id=ts827 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=827
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=809&key
+#EXTINF:-1 tvg-id=ts809 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=809
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=828&key
-#EXTINF:-1 tvg-id=ts828 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
-https://rftv.wtf/tp/jp.mpd?contentID=828
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=810&key
+#EXTINF:-1 tvg-id=ts810 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=810
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=811&key
+#EXTINF:-1 tvg-id=ts811 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=811
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=812&key
+#EXTINF:-1 tvg-id=ts812 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=812
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=813&key
+#EXTINF:-1 tvg-id=ts813 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=813
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=814&key
+#EXTINF:-1 tvg-id=ts814 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=814
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=815&key
+#EXTINF:-1 tvg-id=ts815 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTV+",Asianet News
+https://rftv.wtf/tp/jp.mpd?contentID=815
