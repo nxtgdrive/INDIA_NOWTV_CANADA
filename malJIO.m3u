@@ -219,3 +219,6 @@ https://rftv.wtf/tp/tplay.mpd?contentID=230
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=229&key
 #EXTINF:-1 tvg-id=ts229 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="JioTV+",Surya Movies
 https://rftv.wtf/tp/tplay.mpd?contentID=229
+
+#EXTINF:-1 tvg-id=ts747 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="JioTV+",Surya Music
+https://sports247.eu.org/api/app/live.php?id=747&e=.m3u8
