@@ -102,3 +102,48 @@ https://rftv.wtf/tp/jp.mpd?contentID=140
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=141&key
 #EXTINF:-1 tvg-id=ts141 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
 https://rftv.wtf/tp/jp.mpd?contentID=141
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=142&key
+#EXTINF:-1 tvg-id=ts142 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=142
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=143&key
+#EXTINF:-1 tvg-id=ts143 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=143
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=144&key
+#EXTINF:-1 tvg-id=ts144 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=144
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=145&key
+#EXTINF:-1 tvg-id=ts145 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=145
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=146&key
+#EXTINF:-1 tvg-id=ts146 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=146
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=147&key
+#EXTINF:-1 tvg-id=ts147 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=147
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=148&key
+#EXTINF:-1 tvg-id=ts148 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=148
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=149&key
+#EXTINF:-1 tvg-id=ts149 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=149
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=150&key
+#EXTINF:-1 tvg-id=ts150 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JioTV+",CNBC Tv18 Prime HD
+https://rftv.wtf/tp/jp.mpd?contentID=150
