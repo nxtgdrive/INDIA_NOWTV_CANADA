@@ -207,5 +207,19 @@ https://rftv.wtf/tp/tplay.mpd?contentID=229
 #EXTINF:-1 tvg-id=ts294 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" group-title="JioTV+",Asianet Plus
 https://rftv.wtf/tp/tplay.mpd?contentID=294
 
-#EXTINF:-1,ASIANET MOVIES HD
-http://103.169.98.53:8000/play/a0k8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Ygf6cZQRY9+Jy7Wl7yg8w","kid":"0IiBe1GdWMSR6iv6WDOILg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts293" group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",Asianet Movies
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="asianethd.in" tvg-name="Asianet HD 1" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_HD.png" group-title="Malayalam",Asianet HD 1
+http://watchindia.net:8880/live/62448/92037/276.ts
+#EXTINF:-1 tvg-id="asianethd.in" tvg-name="Asianet HD 2" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_HD.png" group-title="Malayalam",Asianet HD 2
+http://watchindia.net:8880/live/62448/92037/2216.ts
+#EXTINF:-1 tvg-id="asianet.in" tvg-name="Asianet" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet.png" group-title="Malayalam",Asianet
+http://watchindia.net:8880/live/62448/92037/2321.ts
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies 1" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png" group-title="Malayalam",Asianet Movies 1
+http://watchindia.net:8880/live/62448/92037/278.ts
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies 2" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png" group-title="Malayalam",Asianet Movies 2
+http://watchindia.net:8880/live/62448/92037/2217.ts
+
