@@ -231,3 +231,10 @@ https://rftv.wtf/tp/slingtv.mpd?contentID=567
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/slingtv.php?contentID=566&key
 #EXTINF:-1 tvg-id=ts566 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="JioTV+",Surya Comedy
 https://rftv.wtf/tp/slingtv.mpd?contentID=566
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=846&key
+#EXTINF:-1 tvg-id=ts845 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="JioTV+",MK Music
+https://rftv.wtf/tp/jp.mpd?contentID=846
